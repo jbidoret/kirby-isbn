@@ -1,5 +1,5 @@
 {
-	"name": "jbidoret/isbn",
+	"name": "jbidoret/kirby-isbn",
 	"description": "Kirby ISBN / EAN Plugin",
 	"license": "MIT",
 	"type": "kirby-plugin",

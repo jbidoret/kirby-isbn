@@ -1,6 +1,6 @@
 <?php return array(
     'root' => array(
-        'name' => 'jbidoret/isbn',
+        'name' => 'jbidoret/kirby-isbn',
         'pretty_version' => '1.0.0',
         'version' => '1.0.0.0',
         'reference' => NULL,
@@ -28,7 +28,7 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'jbidoret/isbn' => array(
+        'jbidoret/kirby-isbn' => array(
             'pretty_version' => '1.0.0',
             'version' => '1.0.0.0',
             'reference' => NULL,
