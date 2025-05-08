@@ -1,0 +1,23 @@
+{
+	"name": "jbidoret/isbn",
+	"description": "Kirby ISBN / EAN Plugin",
+	"license": "MIT",
+	"type": "kirby-plugin",
+	"version": "1.0.0",
+	"authors": [
+		{
+			"name": "Julien Bidoret",
+			"email": "julien@accentgrave.net"
+		}
+	],
+	"require": {
+		"getkirby/composer-installer": "^1.1",
+		"biblys/isbn": "~3.0"
+	},
+	"config": {
+		"optimize-autoloader": true,
+		"allow-plugins": {
+			"getkirby/composer-installer": true
+		}
+	}
+}
